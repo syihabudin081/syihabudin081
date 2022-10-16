@@ -15,7 +15,7 @@ I am **Syihabudin Rahmat R** .
 - 💬 Ask me about **Web Development or Cloud Computing**
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkhan205&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syihabudin081&layout=compact&theme=dark&hide_border=true)
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=syihabudin081&show_icons=true&hide_border=true&theme=dark)
 
