@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I am **Syihabudin Rahmat R** .have good skill in web front-end development using react.js
+I am **Syihabudin Rahmat R** . 
 
 
 
@@ -17,6 +17,6 @@ I am **Syihabudin Rahmat R** .have good skill in web front-end development using
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkhan205&layout=compact&theme=dark&hide_border=true)
 
-![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=gkhan205&show_icons=true&hide_border=true&theme=dark)
+![My github stats](https://github-readme-stats.vercel.app/api?username=syihabudin081&show_icons=true&hide_border=true&theme=dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gkhan205)](https://github.com/gkhan205/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=syihabudin081)](https://github.com/syihabudin081/github-profile-trophy)
