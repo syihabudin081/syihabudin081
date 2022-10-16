@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/gkhan205/gkhan205/blob/master/image/Banner.png)
+![Banner Image](https://github.com/syihabudin081/syihabudin081/issues/1#issue-1410471923)
 
 ## Hi there 👋
 
