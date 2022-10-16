@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/syihabudin081/syihabudin081/issues/1#issue-1410471923)
+![Gradient Business Digital Marketing Linkedln Banner](https://user-images.githubusercontent.com/99803288/196035191-35a9d801-585b-4b9e-89e9-a2814da32540.png)
 
 ## Hi there 👋
 
