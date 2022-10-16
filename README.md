@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I am **Syihabudin Rahmat R** . Have interest in **Web Front-End,Backend Development,and Cloud Computing** . i'm currently learning CLoud Computing using AWS as cloud provider. have a look at my project and leave a suggestion in order to improve my code😉
+I am **Syihabudin Rahmat R** . Have interest in **Web Front-End,Backend Development,and Cloud Computing** . i'm currently learning Cloud Computing using AWS as cloud provider. have a look at my project and leave a suggestion in order to improve my code😉
 
 
 
