@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Syihabudin</h1>
-<img src="https://user-images.githubusercontent.com/99803288/196035191-35a9d801-585b-4b9e-89e9-a2814da32540.png"/>
+
 <h3 align="center">Undergraduate Student At UPNVY. Web Front-End,Backend Development,and Cloud Computing Enthusiast. Currently learning Cloud Computing using AWS. have a look at my projects and leave a comment😉</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syihabudin081&label=Profile%20views&color=0e75b6&style=flat" alt="syihabudin081" /> </p>
