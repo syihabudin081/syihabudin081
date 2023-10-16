@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syihabudin</h1>
-<h3 align="center">Undergraduate Student At UPNVY. Web Front-End,Backend Development,and Cloud Computing** Enthusiast. RAWRRRR 😽</h3>
+<h3 align="center">Undergraduate Student At UPNVY. Web Front-End,Backend Development,and Cloud Computing Enthusiast. RAWRRRR 😽</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syihabudin081&label=Profile%20views&color=0e75b6&style=flat" alt="syihabudin081" /> </p>
 
