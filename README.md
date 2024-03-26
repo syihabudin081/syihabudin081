@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syihabudin081" alt="syihabudin081" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning and Next.js**
+- 🌱 I’m currently learning **Machine Learning,Next.js,Java,and DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/syihabudin081](https://github.com/syihabudin081)
 
